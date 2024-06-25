@@ -1,4 +1,4 @@
-# Fase1-230613-Gabellaccia1 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230613-Gabellaccia1 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687))
 Ricognizione per localizzare la grotta della Gabellaccia, al Passo della Gabellaccia (1^ tentativo)
 ## Percorso: Tecchia della Gabellaccia-1^ tentativo
 **Sopralluogo per individuare la Tecchia della Gabellaccia, lungo il percorso che dal Passo omonimo porta a Castelpoggio**
