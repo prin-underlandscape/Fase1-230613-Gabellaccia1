@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.122308" lon="10.097512">
+    <ele>500</ele>
+    <name>Piccolo riparo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.122096" lon="10.098599">
+    <ele>500</ele>
+    <name>Piccole cavità</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Tecchia della Gabellaccia-1^ tentativo</name>
+    <desc>Sopralluogo per individuare la Tecchia della Gabellaccia, lungo il percorso che dal Passo omonimo porta a Castelpoggio</desc>
+    <trkseg>
+      <trkpt lat="[10.098279, 44.123605, 939, 1686652834]" lon="[10.098284, 44.123685, 941.6492531197146, 1686652829]">
+        <ele>[10.098392, 44.123553, 873.1810735212639, 1686652837]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
